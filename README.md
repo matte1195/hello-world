@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-My first GotHup repository
+My first GitHup repository
